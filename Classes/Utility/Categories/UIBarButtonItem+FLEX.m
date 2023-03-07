@@ -69,8 +69,8 @@
     return self;
 }
 
-// - (void)_setWidthItem:(CGFloat)width {
+- (void)_setWidthItem:(CGFloat)width {
     
-// }
+}
 
 @end
